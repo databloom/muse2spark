@@ -2,7 +2,7 @@
 
 # Muse2Spark 
 
-A simple python notebook for reading the csv exported data from the Muse2 headset
+A simple python notebook for reading the csv exported data from the Muse2 headset and graphing it
 
 ## Getting Started
 
